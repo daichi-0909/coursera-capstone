@@ -1,1 +1,1 @@
-# coursera-capstone
+Personal projects will be uploaded here.
